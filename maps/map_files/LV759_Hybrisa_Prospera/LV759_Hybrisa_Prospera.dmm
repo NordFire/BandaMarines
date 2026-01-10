@@ -7667,7 +7667,7 @@
 /obj/effect/decal/hybrisa/dirt,
 /obj/item/trash/hotdog,
 /obj/effect/decal/hybrisa/trash,
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/north_east_street)
 "atR" = (
@@ -10635,7 +10635,7 @@
 	pixel_y = 12
 	},
 /obj/item/poster,
-/mob/living/simple_animal/mouse/rat/brown/Old_Timmy,
+/mob/living/simple_animal/small/mouse/rat/brown/Old_Timmy,
 /obj/item/reagent_container/syringe{
 	icon_state = "broken"
 	},
@@ -13163,7 +13163,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_11"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/central_streets)
 "biR" = (
@@ -14854,7 +14854,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_5"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/shard,
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_11"
@@ -16757,7 +16757,7 @@
 "bKW" = (
 /obj/effect/decal/hybrisa/dirt,
 /obj/structure/barricade/handrail/hybrisa/handrail,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/trash/hybrisa/cuppa_joes/lid,
 /turf/open/floor/hybrisa/metal/grated/east,
 /area/lv759/outdoors/colony_streets/north_east_street)
@@ -22265,7 +22265,7 @@
 /area/lv759/indoors/hospital/virology)
 "czV" = (
 /obj/structure/disposalpipe/segment,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/effect/hybrisa/misc/fake/wire/red{
 	dir = 4
 	},
@@ -24088,8 +24088,8 @@
 	pixel_x = -13;
 	pixel_y = 10
 	},
-/mob/living/simple_animal/mouse/rat/gray,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/effect/decal/strata_decals/grime/grime3{
 	dir = 8
 	},
@@ -25308,7 +25308,7 @@
 /area/lv759/outdoors/colony_streets/east_central_street)
 "cVo" = (
 /obj/effect/decal/hybrisa/dirt,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/floor/hybrisa/metal/grated/north,
 /area/lv759/outdoors/colony_streets/north_west_street)
 "cVq" = (
@@ -26966,7 +26966,7 @@
 	pixel_y = 12
 	},
 /obj/effect/decal/hybrisa/trash,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/structure/prop/hybrisa/fakeplatforms/platform5/deco,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/central_streets)
@@ -28928,7 +28928,7 @@
 	color = "#858680"
 	},
 /obj/effect/decal/hybrisa/dirt,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/structure/platform/metal/hybrisa/metalplatform6/west,
 /turf/open/floor/corsat/officetiles,
 /area/lv759/outdoors/colony_streets/central_streets)
@@ -36335,7 +36335,7 @@
 /turf/open/floor/mech_bay_recharge_floor/shuttle_landing_lights,
 /area/lv759/outdoors/landing_zone_2)
 "eCW" = (
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /obj/structure/disposalpipe/tagger/partial,
 /turf/open/floor/plating/plating_catwalk/prison,
 /area/lv759/outdoors/colony_streets/central_streets)
@@ -36579,7 +36579,7 @@
 	pixel_y = 15
 	},
 /obj/item/trash/uscm_mre,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/central_streets)
 "eFt" = (
@@ -39681,7 +39681,7 @@
 	pixel_x = 1;
 	pixel_y = 8
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/stack/sheet/cardboard{
 	layer = 1;
 	pixel_y = -6;
@@ -39919,7 +39919,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_13"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/trash/hybrisa/cuppa_joes/lid,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/north_east_street)
@@ -41454,7 +41454,7 @@
 	icon_state = "trash_11"
 	},
 /obj/effect/decal/hybrisa/dirt_2,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/auto_turf/hybrisa_auto_turf/layer0,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "fru" = (
@@ -44425,7 +44425,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_6"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/trash/hybrisa/cuppa_joes/lid,
 /turf/open/floor/prison/cell_stripe/west,
 /area/lv759/outdoors/colony_streets/east_central_street)
@@ -46195,8 +46195,8 @@
 "gch" = (
 /obj/structure/platform/stone/hybrisa/rockdark/east,
 /obj/structure/platform/stone/hybrisa/rockdark,
-/mob/living/simple_animal/mouse/rat/gray,
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/auto_turf/hybrisa_auto_turf/layer2,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "gcj" = (
@@ -47197,7 +47197,7 @@
 /obj/effect/decal/warning_stripes{
 	icon_state = "N"
 	},
-/mob/living/simple_animal/mouse/rat/white,
+/mob/living/simple_animal/small/mouse/rat/white,
 /obj/effect/decal/hybrisa/dirt,
 /obj/structure/prop/hybrisa/misc/buildinggreebliessmall/smallvent3{
 	pixel_y = 28;
@@ -49861,7 +49861,7 @@
 /obj/effect/decal/warning_stripes{
 	icon_state = "E"
 	},
-/mob/living/simple_animal/mouse/rat/white,
+/mob/living/simple_animal/small/mouse/rat/white,
 /obj/effect/decal/hybrisa/dirt,
 /obj/effect/decal/strata_decals/grime/grime3{
 	icon_state = "grime1"
@@ -55597,7 +55597,7 @@
 /turf/open/floor/prison/red/east,
 /area/lv759/indoors/colonial_marshals/prisoners_foyer)
 "hAo" = (
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/effect/hybrisa/misc/fake/pipes/pipe5{
 	dir = 4;
 	pixel_y = -1;
@@ -66837,7 +66837,7 @@
 	},
 /obj/item/stack/sheet/cardboard,
 /obj/effect/decal/hybrisa/dirt,
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /obj/item/trash/hybrisa/cuppa_joes/empty_cup,
 /turf/open/hybrisa/street/asphalt,
 /area/lv759/outdoors/colony_streets/east_central_street)
@@ -73825,7 +73825,7 @@
 /obj/structure/platform/stone/hybrisa/rockdark,
 /obj/effect/decal/hybrisa/dirt,
 /obj/effect/decal/hybrisa/dirt_2,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/auto_turf/hybrisa_auto_turf/layer0,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "kme" = (
@@ -79629,7 +79629,7 @@
 	icon_state = "vomit_4"
 	},
 /obj/item/stack/sheet/cardboard,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/north_west_street)
 "ldt" = (
@@ -81162,7 +81162,7 @@
 /turf/open/hybrisa/street/asphalt,
 /area/lv759/outdoors/colony_streets/south_west_street)
 "lps" = (
-/mob/living/simple_animal/cat/blackcat{
+/mob/living/simple_animal/small/cat/blackcat{
 	name = "Buttons"
 	},
 /obj/effect/decal/hybrisa/dirt,
@@ -84474,7 +84474,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_4"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/trash/hybrisa/cuppa_joes/lid,
 /turf/open/hybrisa/street/sidewalk/north,
 /area/lv759/outdoors/colony_streets/north_east_street)
@@ -85182,7 +85182,7 @@
 /area/lv759/indoors/caves/south_caves/derelict_ship)
 "lTd" = (
 /obj/item/spacecash/c200,
-/mob/living/simple_animal/bunny/dave{
+/mob/living/simple_animal/small/bunny/dave{
 	dir = 4
 	},
 /obj/item/moneybag,
@@ -85461,7 +85461,7 @@
 	dir = 4;
 	color = "#858680"
 	},
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /obj/structure/prop/hybrisa/misc/buildinggreebliessmall/smallvent2{
 	pixel_x = 6;
 	pixel_y = 25
@@ -85570,7 +85570,7 @@
 	icon_state = "trash_10";
 	pixel_y = 12
 	},
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/floor/plating/platingdmg3/west,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "lWg" = (
@@ -86685,7 +86685,7 @@
 	pixel_x = -3;
 	pixel_y = 3
 	},
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/hybrisa/street/sidewalk/west,
 /area/lv759/outdoors/colony_streets/north_street)
 "mfb" = (
@@ -87721,7 +87721,7 @@
 	},
 /obj/effect/decal/hybrisa/dirt,
 /obj/structure/machinery/light/small/blue,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/central_streets)
 "mnq" = (
@@ -92459,7 +92459,7 @@
 	pixel_x = -7;
 	pixel_y = 13
 	},
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /obj/structure/pipes/standard/simple/hidden/dark{
 	dir = 4
 	},
@@ -99487,7 +99487,7 @@
 	pixel_x = -8;
 	pixel_y = 12
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/floor/plating/platingdmg3/west,
 /area/lv759/outdoors/colony_streets/north_street)
 "oaS" = (
@@ -99867,7 +99867,7 @@
 /obj/item/stack/sheet/cardboard{
 	layer = 1
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/hybrisa/street/sidewalk/west,
 /area/lv759/outdoors/colony_streets/north_street)
 "odZ" = (
@@ -100021,7 +100021,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_13"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/floor/hybrisa/metal/grated/north,
 /area/lv759/outdoors/colony_streets/north_west_street)
 "oeX" = (
@@ -101136,7 +101136,7 @@
 /turf/open/floor/almayer/black/southwest,
 /area/lv759/indoors/wy_research_complex/hallwaysouthwest)
 "onU" = (
-/mob/living/simple_animal/mouse/rat/black,
+/mob/living/simple_animal/small/mouse/rat/black,
 /obj/structure/pipes/standard/simple/hidden/dark{
 	dir = 4
 	},
@@ -102726,7 +102726,7 @@
 /obj/effect/decal/warning_stripes{
 	icon_state = "W"
 	},
-/mob/living/simple_animal/mouse/rat/white,
+/mob/living/simple_animal/small/mouse/rat/white,
 /obj/effect/decal/strata_decals/grime/grime3{
 	icon_state = "grime1"
 	},
@@ -119073,7 +119073,7 @@
 	pixel_x = 1;
 	pixel_y = 8
 	},
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/floor/prison/floor_plate/southwest,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "rat" = (
@@ -126674,8 +126674,8 @@
 	icon_state = "trash_9";
 	pixel_y = 12
 	},
-/mob/living/simple_animal/mouse/rat/gray,
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/item/trash/hybrisa/cuppa_joes/lid,
 /obj/item/trash/hybrisa/cuppa_joes/empty_cup,
 /turf/open/hybrisa/street/sidewalk/northwest,
@@ -131367,7 +131367,7 @@
 /obj/effect/decal/hybrisa/trash{
 	icon_state = "trash_7"
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/floor/plating/platingdmg3/west,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "sPG" = (
@@ -139602,7 +139602,7 @@
 /obj/effect/decal/warning_stripes{
 	icon_state = "W"
 	},
-/mob/living/simple_animal/mouse/rat/white/Milky,
+/mob/living/simple_animal/small/mouse/rat/white/Milky,
 /turf/open/floor/hybrisa/tile/tilewhite,
 /area/lv759/indoors/wy_research_complex/mainlabs)
 "ubD" = (
@@ -140361,7 +140361,7 @@
 	icon_state = "trash_15";
 	pixel_y = 14
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/floor/hybrisa/tile/tilewhite,
 /area/lv759/indoors/south_public_restroom)
 "uih" = (
@@ -143064,8 +143064,8 @@
 	icon_state = "trash_6";
 	pixel_y = 12
 	},
-/mob/living/simple_animal/mouse/rat/brown,
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/floor/plating/platingdmg3/west,
 /area/lv759/outdoors/colony_streets/north_street)
 "uCE" = (
@@ -151007,7 +151007,7 @@
 	pixel_x = 1;
 	pixel_y = 8
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/structure/prop/hybrisa/fakeplatforms/platform5/deco{
 	dir = 4
 	},
@@ -153024,7 +153024,7 @@
 /area/lv759/indoors/landing_zone_2/kmcc_hub_lounge_hallway)
 "vZQ" = (
 /obj/effect/decal/hybrisa/dirt,
-/mob/living/simple_animal/mouse/rat/brown,
+/mob/living/simple_animal/small/mouse/rat/brown,
 /turf/open/floor/hybrisa/metal/grated/north,
 /area/lv759/outdoors/colony_streets/north_west_street)
 "vZV" = (
@@ -156778,7 +156778,7 @@
 	icon_state = "trash_10";
 	pixel_y = 12
 	},
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /obj/structure/prop/hybrisa/misc/buildinggreebliessmall/smallvent3{
 	pixel_y = 28
 	},
@@ -161544,7 +161544,7 @@
 /turf/open/hybrisa/street/cement3,
 /area/lv759/outdoors/colony_streets/central_streets)
 "xpP" = (
-/mob/living/simple_animal/mouse/rat/gray,
+/mob/living/simple_animal/small/mouse/rat/gray,
 /turf/open/hybrisa/street/sidewalkfull,
 /area/lv759/outdoors/colony_streets/south_east_street)
 "xpR" = (
@@ -162021,7 +162021,7 @@
 	icon_state = "S"
 	},
 /obj/structure/machinery/light/blue,
-/mob/living/simple_animal/mouse/rat/white,
+/mob/living/simple_animal/small/mouse/rat/white,
 /obj/effect/decal/strata_decals/grime/grime3{
 	icon_state = "grime1"
 	},
