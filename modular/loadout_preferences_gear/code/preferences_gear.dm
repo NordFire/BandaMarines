@@ -42,3 +42,8 @@
 	display_name = "USCM Poncho, purple"
 	path = /obj/item/clothing/accessory/poncho/purple
 	fluff_cost = 5
+
+/datum/gear/headwear/beret/surgical
+	display_name = "\improper USCM beret, surgical green"
+	path = /obj/item/clothing/head/beret/cm/surgical
+	fluff_cost = 2
